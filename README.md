@@ -23,7 +23,6 @@ Passionate about turning numbers into narratives that matter. Let’s make data-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning: Machine/deep learning methods in analzying medical/health data
-- 💼 I’m currently working as: Statistical analyst at Bielefeld University
 - 🤝 I’m open to collaborating on: Manipulating big data and interpreting of statisitcal models
 - 📫 How to reach me: soghra.hajjar@gmail.com
 

@@ -35,6 +35,6 @@ Passionate about turning numbers into narratives that matter. Let’s make data-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-
+![SPSS](https://img.shields.io/badge/-SPSS-black?style=flat-square&logo=ibm)
 
 Thanks for stopping by! 😊

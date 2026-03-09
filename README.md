@@ -33,6 +33,8 @@ Passionate about turning numbers into narratives that matter. Let’s make data-
 ### Languages
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
 
 Thanks for stopping by! 😊

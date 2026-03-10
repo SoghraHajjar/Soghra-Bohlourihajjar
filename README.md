@@ -1,13 +1,12 @@
 # Soghra-Bohlourihajjar
-Hello, every one!
-# 👋 Hi there, I'm Soghra Bohlourihajjar
+# Hi there, I'm Soghra Bohlourihajjar
 
 Welcome to my GitHub profile! I'm a statistitian passionate about statistical analysing data.
-## 📊 Statistical Analyst | Data-Driven Decision Maker
+## Statistical Analyst | Data-Driven Decision Maker
 
 I specialize in transforming complex data into actionable insights that support strategic decision-making. With a solid foundation in statistical methodologies, data modeling, and analytical tools, I uncover trends, patterns, and relationships that help drive performance and inform key decisions.
 
-### 🔍 What I Do
+### What I Do
 
 - 🧠 Apply statistical techniques like regression, mixture models, hypothesis testing, ANOVA,... 
 - 📈 Design experiments and surveys to collect and interpret high-quality data  
@@ -20,15 +19,15 @@ Passionate about turning numbers into narratives that matter. Let’s make data-
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 I’m currently learning: Machine/deep learning methods in analzying medical/health data
-- 🤝 I’m open to collaborating on: Manipulating big data and interpreting of statisitcal models
-- 📫 How to reach me: soghra.hajjar@gmail.com
+-  I’m currently learning: Machine/deep learning methods in analzying medical/health data
+-  I’m open to collaborating on: Manipulating big data and interpreting of statisitcal models
+-  How to reach me: soghra.hajjar@gmail.com
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 ### Languages
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
@@ -37,4 +36,4 @@ Passionate about turning numbers into narratives that matter. Let’s make data-
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 ![SPSS](https://img.shields.io/badge/-SPSS-black?style=flat-square&logo=ibm)
 
-Thanks for stopping by! 😊
+Thanks for stopping by!

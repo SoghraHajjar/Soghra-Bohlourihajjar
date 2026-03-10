@@ -1,15 +1,14 @@
 # Soghra-Bohlourihajjar
 # Hi there, I'm Soghra Bohlourihajjar
 
-Welcome to my GitHub profile! I'm a statistitian passionate about statistical analysing data.
+Welcome to my GitHub profile! I'm a statistician passionate about statistical analysis of data.
 ## Statistical Analyst | Data-Driven Decision Maker
 
 I specialize in transforming complex data into actionable insights that support strategic decision-making. With a solid foundation in statistical methodologies, data modeling, and analytical tools, I uncover trends, patterns, and relationships that help drive performance and inform key decisions.
 
-### What I Do
+## What I Do
 
-- 🧠 Apply statistical techniques like regression, mixture models, hypothesis testing, ANOVA,... 
-- 📈 Design experiments and surveys to collect and interpret high-quality data  
+- 📈 Apply statistical techniques like regression, mixture models, hypothesis testing, ANOVA,...  
 - 🛠️ Use tools such as **R**, **Python**, **SQL**, **Excel**, and **Tableau** for analysis and visualization  
 - 🗂️ Clean, organize, and validate large datasets to ensure accuracy and reliability  
 - 🤝 Communicate insights clearly to both technical and non-technical audiences via dashboards and reports  
@@ -21,19 +20,18 @@ Passionate about turning numbers into narratives that matter. Let’s make data-
 
 ## About Me
 
--  I’m currently learning: Machine/deep learning methods in analzying medical/health data
+-  I’m currently learning: Machine/deep learning methods in analyzing medical/health data
 -  I’m open to collaborating on: Manipulating big data and interpreting of statisitcal models
 -  How to reach me: soghra.hajjar@gmail.com
 
 ---
 
-## Skills & Technologies
+## Skills
 
-### Languages
+## Languages
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 ![SPSS](https://img.shields.io/badge/-SPSS-black?style=flat-square&logo=ibm)
 
-Thanks for stopping by!

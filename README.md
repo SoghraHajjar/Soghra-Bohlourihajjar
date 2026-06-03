@@ -1,5 +1,5 @@
-# Soghra-Bohlourihajjar
-# Hi there, I'm Soghra Bohlourihajjar
+# Sara-Hadjar
+# Hi there, I'm Sara Hadjar(Birth name: Soghra Bohlourihajjar)
 
 Welcome to my GitHub profile! I'm a statistician passionate about statistical analysis of data.
 ## Statistical Analyst | Data-Driven Decision Maker
